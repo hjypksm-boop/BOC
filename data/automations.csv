@@ -1,0 +1,9 @@
+process,fix,tool,hours_saved_per_month,status
+Board/ExCo minutes & action extraction,Transcript → actions with owners and dates,Claude,5.0,Piloting
+Chasing board pack submissions,Automatic reminders at T-7/T-5/T-3 with status links,Power Automate,3.0,Live
+CEO weekly diary brief,"Monday summary of conflicts, missing agendas, travel",Claude,2.5,Idea
+Inbox triage for CEO office,"Route invoices, intros and events to folders",Outlook rules,2.0,Live
+Facilities ticket logging,Teams form → ticket list with repeat-issue detection,Power Automate,2.5,Piloting
+H&S compliance tracker,Next-due dates and owner nudges,Excel,1.5,Live
+Drafting replies to routine requests,"First drafts for travel, room and supplier emails",Copilot,2.0,Idea
+New-starter onboarding logistics,"Agent books kit, desk, access card and induction",Abundly,1.5,Idea

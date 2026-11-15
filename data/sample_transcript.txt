@@ -1,0 +1,42 @@
+ExCo Weekly Meeting — Tuesday 10 November
+Attendees: CEO (chair), CFO, CTO, CRO, Head of People, General Counsel, Chief Revenue Officer, Business Operations Coordinator (notes)
+
+CEO: Morning, everyone. We're 16 days out from the Board, so let's keep this tight. First, the Board pack. Where are we?
+
+Business Operations Coordinator: Three sections are still outstanding — finance, risk and compliance, and information security. Pack goes to the Company Secretary on Thursday 19 November.
+
+CFO: Finance is close. The management accounts are done; I'm still finishing the reforecast commentary. I'll have the finance section submitted by Monday 16 November.
+
+CRO: Risk is behind, honestly. We're waiting on the sanctions screening model review. I'll get a draft of the risk and compliance report to the Coordinator by Friday 13 November, and flag anything unresolved.
+
+CEO: Good. Information security?
+
+CTO: The CISO is out this week, but I'll make sure the pen-test close-out summary is in the pack. I'll own that and deliver it by Monday 16 November.
+
+CEO: Next, hiring. Where are we on the VP Engineering offer?
+
+Head of People: Final interview was today. If the panel agrees, I'll send the offer by Thursday 19 November.
+
+CEO: Thanks. Commercial — the tier-1 bank RFP?
+
+Chief Revenue Officer: Pricing is the sticking point. I need CFO sign-off on the discount floor. Can we agree that this week?
+
+CFO: Send me the model and I'll sign off by Friday 13 November.
+
+Chief Revenue Officer: Will do. I'll submit the final RFP response by Thursday 19 November.
+
+CEO: Legal — DORA?
+
+General Counsel: The ICT third-party register is about seventy percent complete. I'll have it finished by Monday 30 November.
+
+CEO: Quick temperature check on the onboarding escalation from last week. Are we on top of it?
+
+Chief Revenue Officer: Customer Success has a recovery plan in place and the client is calmer. No Board-level risk, but I'll keep it on the commercial slide so nobody is surprised.
+
+CFO: Agreed. It's also worth noting cash runway is unchanged from last month, so no surprises there either.
+
+CEO: Good. One more thing from me: the third-floor air conditioning. That's the fourth complaint. Can ops escalate it with building management and come back with a fix date by Monday 16 November?
+
+Business Operations Coordinator: Yes, I'll escalate today and report back by Monday 16 November.
+
+CEO: Great. I'll circulate the summary and actions by end of day. Thanks, all.

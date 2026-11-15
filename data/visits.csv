@@ -1,0 +1,9 @@
+date,time,visitor_org,visitor_count,host,purpose,room,room_booked,building_passes_registered,nda_signed,catering_ordered,welcome_screen_set,guest_wifi_issued,host_briefed
+2026-11-10,14:00,Tier-1 UK bank,4,Chief Revenue Officer,Product demo,Boardroom,True,True,True,True,True,True,True
+2026-11-11,10:00,EU neobank,3,CPO,Due diligence,Meeting room 3,True,True,True,True,True,True,True
+2026-11-12,15:00,Regulator liaison,2,CRO,Due diligence,Meeting room 1,True,True,True,True,True,True,True
+2026-11-17,09:30,UK building society,5,VP Customer Success,QBR,Boardroom,True,True,True,True,True,True,True
+2026-11-19,11:00,Global card scheme,3,CEO,Partnership,Boardroom,True,False,True,False,False,False,False
+2026-11-23,13:00,Big-four audit firm,4,CFO,Due diligence,Meeting room 2,True,False,True,False,False,False,True
+2026-11-25,10:00,Head of Data candidate,1,Head of People,Interview panel,Meeting room 4,True,False,False,False,False,False,False
+2026-11-30,14:30,Dutch retail bank,6,Chief Revenue Officer,QBR,Boardroom,False,False,True,False,False,False,False

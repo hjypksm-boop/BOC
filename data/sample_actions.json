@@ -1,0 +1,53 @@
+{
+  "meeting": "ExCo weekly",
+  "actions": [
+    {
+      "action": "Submit finance section of Board pack",
+      "owner": "CFO",
+      "due_date": "2026-11-16",
+      "source": "ExCo"
+    },
+    {
+      "action": "Send draft risk & compliance report to Business Operations Coordinator",
+      "owner": "CRO",
+      "due_date": "2026-11-13",
+      "source": "ExCo"
+    },
+    {
+      "action": "Deliver pen-test close-out summary for Board pack",
+      "owner": "CTO",
+      "due_date": "2026-11-16",
+      "source": "ExCo"
+    },
+    {
+      "action": "Send VP Engineering offer (subject to panel agreement)",
+      "owner": "Head of People",
+      "due_date": "2026-11-19",
+      "source": "ExCo"
+    },
+    {
+      "action": "Sign off discount floor for tier-1 bank RFP",
+      "owner": "CFO",
+      "due_date": "2026-11-13",
+      "source": "ExCo"
+    },
+    {
+      "action": "Submit final tier-1 bank RFP response",
+      "owner": "Chief Revenue Officer",
+      "due_date": "2026-11-19",
+      "source": "ExCo"
+    },
+    {
+      "action": "Complete DORA ICT third-party register",
+      "owner": "General Counsel",
+      "due_date": "2026-11-30",
+      "source": "ExCo"
+    },
+    {
+      "action": "Escalate 3rd-floor air conditioning and report fix date",
+      "owner": "Business Operations Coordinator",
+      "due_date": "2026-11-16",
+      "source": "ExCo"
+    }
+  ]
+}

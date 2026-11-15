@@ -1,0 +1,34 @@
+event,task,owner,due_date,done
+Christmas party 2026,Venue booked,Business Operations,2026-10-01,True
+Christmas party 2026,Deposit paid,Finance,2026-10-09,True
+Christmas party 2026,Invites sent,Business Operations,2026-10-20,True
+Christmas party 2026,Catering confirmed,Business Operations,2026-11-13,False
+Christmas party 2026,Dietary requirements collected,Business Operations,2026-11-13,False
+Christmas party 2026,AV/music booked,Business Operations,2026-11-06,True
+Christmas party 2026,Accessibility checked,Head of People,2026-11-13,False
+Christmas party 2026,Transport/late-night travel,Business Operations,2026-11-24,False
+Christmas party 2026,Photographer,Marketing,2026-11-09,True
+Christmas party 2026,Risk assessment,Business Operations,2026-11-20,False
+Ops & Finance team lunch,Venue booked,Business Operations,2026-11-03,True
+Ops & Finance team lunch,Invites sent,Business Operations,2026-11-04,True
+Ops & Finance team lunch,Dietary requirements collected,Business Operations,2026-11-11,True
+Ops & Finance team lunch,Catering confirmed,Business Operations,2026-11-13,False
+Q4 all-hands & drinks,Invites sent,Internal Comms,2026-10-30,True
+Q4 all-hands & drinks,AV/music booked,IT,2026-11-06,True
+Q4 all-hands & drinks,Catering confirmed,Business Operations,2026-11-12,False
+Q4 all-hands & drinks,Dietary requirements collected,Business Operations,2026-11-12,False
+Q4 all-hands & drinks,Accessibility checked,Head of People,2026-11-13,False
+Client dinner – Tier-1 UK bank,Venue booked,Executive Assistant,2026-10-30,True
+Client dinner – Tier-1 UK bank,Deposit paid,Finance,2026-11-09,True
+Client dinner – Tier-1 UK bank,Invites sent,Chief Revenue Officer,2026-11-02,True
+Client dinner – Tier-1 UK bank,Dietary requirements collected,Executive Assistant,2026-11-13,False
+Client dinner – Tier-1 UK bank,Transport/late-night travel,Executive Assistant,2026-11-17,False
+Q1 ExCo offsite,Venue booked,Business Operations,2026-11-25,False
+Q1 ExCo offsite,Deposit paid,Finance,2026-11-30,False
+Q1 ExCo offsite,Invites sent,Business Operations,2026-11-05,True
+Q1 ExCo offsite,Transport/late-night travel,Business Operations,2026-12-18,False
+Q1 ExCo offsite,Risk assessment,Business Operations,2026-12-30,False
+Summer social 2026,Venue booked,Business Operations,2026-04-24,True
+Summer social 2026,Invites sent,Business Operations,2026-05-22,True
+Summer social 2026,Catering confirmed,Business Operations,2026-06-23,True
+Summer social 2026,Risk assessment,Business Operations,2026-06-26,True
